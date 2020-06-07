@@ -1,2 +1,2 @@
 # VBA-challenge
-Homework Week 2
+Stock Market Analysis using VBA.
